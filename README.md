@@ -1,13 +1,4 @@
 
-
-
-
-
-
-
-
-
-
 <!doctype html>
 <html lang="en" style="background-color: black;">
   <head>
@@ -51,21 +42,21 @@
   <tbody>
     <tr>
       <th scope="col">MONDAY</th>
-      <th scope="col"><a href=" https://meet.google.com/pep-jhuw-niw"   target="_blank"> maths <br> ravi</a></th>
+      <th scope="col"><a href="https://meet.google.com/lookup/h3jkprmmcj?authuser=0&hs=179"   target="_blank"> maths <br> ravi</a></th>
       <th scope="col"><a href="https://meet.google.com/khe-raww-mcc" target="_blank"> OOPS <br>mohana</a></th>
       <th scope="col"><a href="https://meet.google.com/sip-shzt-wxd" target="_blank">MPMC<BR>SANDHYA</a></th>
       <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">S S<BR>SPREMANAND</a></th>
       <th scope="col">LUNCH BREAK</th>
-      <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">MATHS<BR>SHIVAKUMAR</a></th>
+      <th scope="col"><a href="https://meet.google.com/sci-givd-jox?authuser=0" target="_blank">MATHS<BR>SHIVAKUMAR</a></th>
       <th scope="col">NO CLASS</th>
     </tr>
 
     <tr>
       <th scope="col">TUESDAY</th>
       <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">EM<BR>MITHUN</a></th>
-      <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">AC<BR>MAHALAKSHMI</a></th>
+      <th scope="col"><a href="https://meet.google.com/cfu-bbtp-crs" target="_blank">AC<BR>MAHALAKSHMI</a></th>
       <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">S S<BR>SPREMANAND</a></th>
-      <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">MATHS<BR>SHIVAKUMAR</a></th>
+      <th scope="col"><a href="https://meet.google.com/sci-givd-jox?authuser=0" target="_blank">MATHS<BR>SHIVAKUMAR</a></th>
       <th scope="col">LUNCH BREAK</th>
       <th scope="col">NO CLASS</th>
       <th scope="col">NO CLASS</th>
@@ -76,9 +67,9 @@
 
     <tr>
       <th scope="col">WEDNESDAY</th>
-      <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">AC<BR>MAHALAKSHMI</a></th>
+      <th scope="col"><a href="https://meet.google.com/cfu-bbtp-crs" target="_blank">AC<BR>MAHALAKSHMI</a></th>
       <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">S S<BR>SPREMANAND</a></th>
-      <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">MATHS<BR>SHIVAKUMAR</a></th>
+      <th scope="col"><a href="https://meet.google.com/sci-givd-jox?authuser=0" target="_blank">MATHS<BR>SHIVAKUMAR</a></th>
       <th scope="col"><a href="https://meet.google.com/khe-raww-mcc" target="_blank"> OOPS <br>mohana</a></th>
       <th scope="col">LUNCH BREAK</th>
       <th scope="col"><a href="https://meet.google.com/sip-shzt-wxd" target="_blank">MPMC LAB<BR>SANDHYA</a></th>
@@ -91,7 +82,7 @@
 
       <th scope="col">THURSDAY</th> 
       <th scope="col"><a href="https://meet.google.com/khe-raww-mcc" target="_blank"> OOPS <br>mohana</a></th>
-      <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">AC<BR>MAHALAKSHMI</a></th>
+      <th scope="col"><a href="https://meet.google.com/cfu-bbtp-crs" target="_blank">AC<BR>MAHALAKSHMI</a></th>
       <th scope="col"><a href="https://meet.google.com/sip-shzt-wxd" target="_blank">MPMC LAB<BR>SANDHYA</a></th>
       <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">S S<BR>SPREMANAND</a></th>
       <th scope="col">LUNCH BREAK</th>
@@ -102,12 +93,12 @@
       <th scope="col">FRIDAY</th>
 
        <th scope="col"><a href="https://meet.google.com/sip-shzt-wxd" target="_blank">MPMC LAB<BR>SANDHYA</a></th>
-      <th scope="col"><a href=" https://meet.google.com/pep-jhuw-niw"   target="_blank"> maths <br> ravi</a></th>
+        <th scope="col"><a href="https://meet.google.com/lookup/h3jkprmmcj?authuser=0&hs=179"   target="_blank"> maths <br> ravi</a></th>
       <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">EM<BR>MITHUN</a></th>
       <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">S S<BR>SPREMANAND</a></th>
       <th scope="col">LUNCH BREAK</th>
-      <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">AC LAB<BR>MAHALAKSHMI</a></th>
-      <th scope="col"><a href="https://rvce.webex.com/rvce/j.php?MTID=m0c563f91ad31b1916beb6163a39169dc" target="_blank">AC LAB<BR>MAHALAKSHMI</a></th>
+      <th scope="col"><a href="https://meet.google.com/cfu-bbtp-crs" target="_blank">AC LAB<BR>MAHALAKSHMI</a></th>
+      <th scope="col"><a href="https://meet.google.com/cfu-bbtp-crs" target="_blank">AC LAB<BR>MAHALAKSHMI</a></th>
   </tbody>
 </table>
 
